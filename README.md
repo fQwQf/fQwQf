@@ -29,7 +29,8 @@ Feel free to explore my repositories and follow my journey in tech development!
  Please send me an email at <fQwQf6@outlook.com> or contact me on Telegram <https://t.me/fQwQf6>   
  
 ## ⚡ Fun fact  
-I'm a fan of postcrossing.If you are interested in postcards,please contact me.BTW,my postcrossing profile is <https://www.postcrossing.com/user/fQwQf>.  
+- I'm a fan of postcrossing.If you are interested in postcards,please contact me.BTW,my postcrossing profile is <https://www.postcrossing.com/user/fQwQf>.
+- My avatar is SCP-2521.
 <!--
 **fQwQf/fQwQf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
