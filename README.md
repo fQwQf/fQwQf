@@ -7,19 +7,19 @@ Welcome to my GitHub profile! I’m a undegradeate at Wuhan University and the C
 🎖 GitHub Developer Program Member  
 
 📘 Projects  
--faQnet
+- faQnet
 A C++ neural network framework designed for flexibility and fast development. Utilizing OpenCV, faQnet allows for adaptable neural network architectures with single-column matrix input/output for streamlined performance.
 
--WHU_Class
+- WHU_Class
 A semi-automated Python tool that integrates Wuhan University’s course schedules into calendar management.
 
--WHU_ALP_2024
+- WHU_ALP_2024
 Assignments for the 2024 Advanced Language Programming course at Wuhan University, written in C++.
 
--lung-adenocarcinoma
+- lung-adenocarcinoma
 A deep learning project using Python and Keras aimed at predicting survival rates for lung adenocarcinoma patients.
 
--Jinqitrip_website
+- Jinqitrip_website
 Source code for the official website of Jinqitrip Co., Ltd., providing travel consultancy services.
 
 🚀 Get in Touch  
