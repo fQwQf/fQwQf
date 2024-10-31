@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I’m a undegradeate at Wuhan University and the C
 
 ## 🌟 Highlights  
 🏆 GitHub Achievement: Pull Shark  
-🎖 GitHub Developer Program Member  
+🥈 GitHub Developer Program Member  
+🥉 CTO and co-founder of Jinqitrip Co., Ltd.
 
 ## 📘 Projects  
 - faQnet
