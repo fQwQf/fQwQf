@@ -1,12 +1,12 @@
 # Hi there 👋
-##👋 Hi, I’m fQwQf  
+## 👋 Hi, I’m fQwQf  
 Welcome to my GitHub profile! I’m a undegradeate at Wuhan University and the CTO and co-founder of Jinqitrip Co., Ltd., and I enjoy working on a range of projects from neural network frameworks to web development.  
 
-##🌟 Highlights  
+## 🌟 Highlights  
 🏆 GitHub Achievement: Pull Shark  
 🎖 GitHub Developer Program Member  
 
-##📘 Projects  
+## 📘 Projects  
 - faQnet
 A C++ neural network framework designed for flexibility and fast development. Utilizing OpenCV, faQnet allows for adaptable neural network architectures with single-column matrix input/output for streamlined performance.
 
@@ -22,13 +22,13 @@ A deep learning project using Python and Keras aimed at predicting survival rate
 - Jinqitrip_website
 Source code for the official website of Jinqitrip Co., Ltd., providing travel consultancy services.
 
-##🚀 Get in Touch  
+## 🚀 Get in Touch  
 Feel free to explore my repositories and follow my journey in tech development!  
 
-##📫 How to reach me  
+## 📫 How to reach me  
  Please send me an email at <fQwQf6@outlook.com> or contact me on Telegram <https://t.me/fQwQf6>   
  
-##⚡ Fun fact  
+## ⚡ Fun fact  
 I'm a fan of postcrossing.If you are interested in postcards,please contact me.BTW,my postcrossing profile is <https://www.postcrossing.com/user/fQwQf>.  
 <!--
 **fQwQf/fQwQf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
