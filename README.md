@@ -1,11 +1,12 @@
 # Hi there 👋
 ## 👋 Hi, I’m fQwQf  
-Welcome to my GitHub profile! I’m a undegradeate at Wuhan University and the CTO and co-founder of Jinqitrip Co., Ltd., and I enjoy working on a range of projects from neural network frameworks to web development.  
+Welcome to my GitHub profile! I’m a undegradeate at Wuhan University , the CTO and co-founder of Jinqitrip Co., Ltd. and Software Development Engineer at Kaixuebang Co. LTD, and I enjoy working on a range of projects from neural network frameworks to web development.  
 
 ## 🌟 Highlights  
 🏆 GitHub Achievement: Pull Shark  
-🥈 GitHub Developer Program Member  
-🥉 CTO and co-founder of Jinqitrip Co., Ltd.
+🥇 CTO and co-founder of Jinqitrip Co., Ltd.  
+🥈 Software Development Engineer at Kaixuebang Co. LTD  
+🥉 GitHub Developer Program Member  
 
 ## 📘 Projects  
 - faQnet
