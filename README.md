@@ -33,6 +33,7 @@ Feel free to explore my repositories and follow my journey in tech development!
 ## ⚡ Fun fact  
 - I'm a fan of postcrossing.If you are interested in postcards,please contact me.BTW,my postcrossing profile is <https://www.postcrossing.com/user/fQwQf>.
 - My avatar is SCP-2521.
+- My username is from Tutte le cosmicomiche by Italo Calvino.
 <!--
 **fQwQf/fQwQf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
