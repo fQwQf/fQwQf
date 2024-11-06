@@ -29,11 +29,19 @@ Feel free to explore my repositories and follow my journey in tech development!
 
 ## 📫 How to reach me  
  Please send me an email at <fQwQf6@outlook.com> or contact me on Telegram <https://t.me/fQwQf6>   
+
+## 🤔 Why "fQwQf"?
+"fQwQf" has following features:  
+1. **Palindrome**: It's the same forwards and backwards, symbolizing a closed loop.
+2. **All Consonants**: By using only consonants, the intent is to avoid treating it as a single pronounceable word, encouraging readers to say each letter individually.
+3. **Five Letters with "W" in the Middle**: This middle "W" could signify "double V," essentially embedding a pair within one letter. This may suggest, perhaps unintentionally, that fQwQf is not a tangible entity. There are philosophical and theological discussions on such notions, like nominalism and universals, but I won’t go into those complexities. 
+
+This username, in some ways, also reflects a **non-divine omniscient perspective**—a viewpoint that, as described by Italo Calvino in his narratives, seeks to describe the world without invoking divinity. Instead of addressing ultimate truths directly, Calvino’s strategy is to define by negation, saying what something is *not*, thereby drawing boundaries around the undefined.  
  
 ## ⚡ Fun fact  
 - I'm a fan of postcrossing.If you are interested in postcards,please contact me.BTW,my postcrossing profile is <https://www.postcrossing.com/user/fQwQf>.
 - My avatar is SCP-2521.
-- My username is from Tutte le cosmicomiche by Italo Calvino.
+- My username is **in fact** from Tutte le cosmicomiche by Italo Calvino.
 <!--
 **fQwQf/fQwQf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
