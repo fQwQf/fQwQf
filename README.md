@@ -30,7 +30,7 @@ Feel free to explore my repositories and follow my journey in tech development!
 ## 📫 How to reach me  
  Please send me an email at <fQwQf6@outlook.com> or contact me on Telegram <https://t.me/fQwQf6>   
 
-## 🤔 Why "fQwQf"?
+## 🤔 What is "fQwQf"?
 "fQwQf" has following features:  
 1. **Palindrome**: It's the same forwards and backwards, symbolizing a closed loop.
 2. **All Consonants**: By using only consonants, the intent is to avoid treating it as a single pronounceable word, encouraging readers to say each letter individually.
