@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![fQwQf's GitHub stats](https://github-readme-stats.vercel.app/api?username=fQwQf)](https://github.com/anuraghazra/github-readme-stats)
+[![fQwQf's GitHub stats](https://github-readme-stats.vercel.app/api?username=fQwQf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👋 Hi, I’m fQwQf  
 Welcome to my GitHub profile! I’m a undegradeate at Wuhan University , the CTO and co-founder of Jinqitrip Co., Ltd. and Software Development Engineer at Kaixuebang Co. LTD, and I enjoy working on a range of projects from neural network frameworks to web development.  
