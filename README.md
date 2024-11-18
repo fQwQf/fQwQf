@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![fQwQf's GitHub stats](https://github-readme-stats.vercel.app/api?username=fQwQf&show_icons=true&theme=radical)
+![fQwQf's GitHub stats](https://github-readme-stats.vercel.app/api?username=fQwQf&show_icons=true&theme=nord)
 
 
 ## 👋 Hi, I’m fQwQf  
