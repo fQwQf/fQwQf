@@ -4,6 +4,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fQwQf)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fQwQf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fQwQf&show_icons=true&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 
 ## 👋 Hi, I’m fQwQf  
 Welcome to my GitHub profile! I’m a undegradeate at Wuhan University , the CTO and co-founder of Jinqitrip Co., Ltd. and Software Development Engineer at Kaixuebang Co. LTD, and I enjoy working on a range of projects from neural network frameworks to web development.  
