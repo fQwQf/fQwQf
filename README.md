@@ -2,7 +2,7 @@
 
 [![fQwQf's GitHub stats](https://github-readme-stats.vercel.app/api?username=fQwQf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fQwQf)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fQwQf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 👋 Hi, I’m fQwQf  
