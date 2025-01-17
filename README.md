@@ -44,7 +44,7 @@ This username, in some ways, also reflects a **non-divine omniscient perspective
  
 ## ⚡ Fun fact  
 - I'm a fan of postcrossing.If you are interested in postcards,please contact me.BTW,my postcrossing profile is <https://www.postcrossing.com/user/fQwQf>.
-- My avatar is SCP-2521.
+- My avatar is [SCP-2521](https://scp-wiki.wikidot.com/scp-2521).
 - My username is **in fact** from Tutte le cosmicomiche by Italo Calvino.
 <!--
 **fQwQf/fQwQf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
