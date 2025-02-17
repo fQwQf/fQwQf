@@ -1,6 +1,4 @@
-# Hi there 👋
-
->*彼阳晚意，若雉飞舞*
+# I can eat glass, it doesn't hurt me. 👋
 
 >*The amber hush of dusk unfolds,*  
 >*where pheasants waltz in gilded scrolls.*  
