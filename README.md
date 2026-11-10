@@ -1,15 +1,9 @@
 # fQwQf's Profile
 
->*New language, old language,*  
-> *新语言 旧语言*  
->*how to answer the sleepless time?*  
-> *该怎样回答 不眠的时间*  
->*Beneath the galaxy, an electronic wasteland,*  
-> *星河下 电子荒原*  
->*billions of warmths and chills, billions of mud-stained souls.*  
-> *亿万场冷暖 亿万泥污人*  
->— Omnipotent Youth Society, *Cable Temple* (Inside the Cable Temple, 2020)  
-> — 万能青年旅店，*郊眠寺*（冀西南林路行，2020）
+>*So, we beat on against the silence*  
+>*Scream our lungs out to be heard*  
+>*Our soul loud and clear*  
+>— Default, *Can You Hear the Whistle Blow* (Can You Hear the Whistle Blow, 2020)  
 
 ## 👋 Hi, I’m fQwQf  
 Welcome to my GitHub profile! I’m a University undergraduate, AI Researcher, and Full-Stack System Developer. My recent focus spans across LLM multi-agent architectures, psychology-grounded AI, compiler design, and low-level systems. I am also the CTO & co-founder of Jinqitrip Co., Ltd.  
